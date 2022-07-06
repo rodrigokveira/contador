@@ -10,3 +10,5 @@ Foram feitas as melhorias propostas:
 Também foram feitas as seguintes melhorias:
 * Mensagem de erro ao atingir o valor máximo ou mínimo e número em negrito.
 * Alteração da cor do número caso positivo.
+
+Veja esse projeto publicado em https://rodrigokveira.github.io/contador/
